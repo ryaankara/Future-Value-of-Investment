@@ -8,7 +8,6 @@ given options.
 
 Finally, the program will display the final savings value that the user would have accumulated.
 
-For your reference, the savings amount is calculated by A = P(1 + r)^y whereby "A" represents the final amount, "P"
-represents initial or principle deposit, "r" represents the interest rate, and "y" symbolizes the number of years.
+For your reference, the savings amount is calculated using the equation A = P(1 + r)^y whereby "A" represents the final amount, "P" represents initial or principle deposit, "r" represents the interest rate, and "y" symbolizes the number of years.
 
 I learned the basics of python with the following tutorial video https://www.youtube.com/watch?v=cpPG0bKHYKc
